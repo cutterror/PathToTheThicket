@@ -1,2 +1,2 @@
 # PathToTheThicket
-A visual novel with a mini-game and multiple endings.
+Визуальная новелла с мини-игрой и несколькими концовками.
